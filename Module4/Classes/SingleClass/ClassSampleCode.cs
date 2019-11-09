@@ -2,7 +2,7 @@
 // Introduction to C# classes
 // Author: csharp.net-tutorials.com
 // Student: Joseph Hong
-// Downlolad: Oct 31, 2019
+// Download Date: Oct 31, 2019
 // Synopsis: A simple demonstration creating a class and using its constructor
 //           to set values when an object is created.
 
