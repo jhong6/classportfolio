@@ -33,7 +33,7 @@ namespace ClassConstructorOverload
             location = b;
         }
 
-        // Constructor takes int variables and assigns them to the
+        // Constructor takes int values and assigns them to the
         // int variables.
         public User(int x, int s)
         {
