@@ -1,10 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+// Source: https://www.sanfoundry.com/csharp-program-multilevel-inheritance/
+// 
 //Simple program demonstrating multilevel inheritance
+using System;
+
 namespace MultiLevelInheritance
 {
     //Program inherits from class vehicle
@@ -63,4 +61,3 @@ namespace MultiLevelInheritance
         }
     }
 }
-//Source: https://www.sanfoundry.com/csharp-program-multilevel-inheritance/
