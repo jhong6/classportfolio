@@ -9,7 +9,6 @@ sealed class SealedClass
  
 class SealedTest
 {
-    //Driver method
     static void Main()
     {
         //Can only
