@@ -52,7 +52,7 @@ namespace InterfaceSampleCode
             // Call the Read method
             perl.Read();
 
-            // )rompt the user for two int values, which are converted to int from string
+            // Prompt the user for two int values, which are converted to int from string
             Console.Write("Enter a value for x: ");
             int inputX = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter a value for y: ");
