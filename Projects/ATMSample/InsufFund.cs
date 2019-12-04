@@ -4,10 +4,10 @@ using System.Text;
 
 namespace ATMforCsharp
 {
-    class InsufficientFund : Exception
+    class InsufFund : Exception
     {
         private double total;
-        public InsufficientFund(double total)
+        public InsufFund(double total)
         {
             this.total = total;
         }
