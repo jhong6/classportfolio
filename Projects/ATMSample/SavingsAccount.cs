@@ -22,7 +22,7 @@ namespace ATMforCsharp
             else
             {
                 double requiredAmount = total - this.accountSTotal;
-                throw new InsufficientFund(requiredAmount);
+                throw new InsufFund(requiredAmount);
             }
         }
         void savingsdeposit(double total)
