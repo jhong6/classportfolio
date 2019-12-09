@@ -16,7 +16,7 @@ class FindAllSubstring
             // Iterate through the string like an array
             for (int i = 0; i < str.Length; i++)
             {
-                // Decalre a new empty string. That will override
+                // Declare a new empty string that will override
                 // each of the "old" string values appended from the
                 // nested for loop.
                 string mystring = "";
