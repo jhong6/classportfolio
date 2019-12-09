@@ -5,6 +5,8 @@
 // Synopsis: Q.1: How to reverse a string? The user will input a string and the method 
 //                should return the reverse of that string
 
+using System;
+
 class ReverseString
     {
         static void Main(string[] args)
