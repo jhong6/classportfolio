@@ -90,7 +90,7 @@ class CheckDupeWords
 // Output:
 // Please enter a sentence:
 // here there every where there here
-// List without duplicates
+// List without duplicates:
 // here
 // there
 // every
