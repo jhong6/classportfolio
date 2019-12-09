@@ -42,7 +42,7 @@ class ArraySum
         // Create a new List called myArray
         List<int> myArray = new List<int>();
         
-        // The while loop will allow user to keep enter new int variables
+        // The while loop will allow user to keep entering new int variables
         // based on the size of the List
         while(count != n)
         {
@@ -52,7 +52,8 @@ class ArraySum
             // The converted int input is added to myArray
             myArray.Add(userIn);
             
-            // Add value of 1 to counter
+            // Add value of 1 to counter as this will allow
+            // the loop to terminate once the counter reaches n
             count++;
         }
         
