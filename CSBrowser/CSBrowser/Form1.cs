@@ -60,9 +60,7 @@ namespace CSBrowser
 
         private void Button5_Click(object sender, EventArgs e)
         {
-            // Set string variable to the contents(the url) that
-            // removes extra spaces from both the beginning and
-            // end (if there are any)
+            // The "Go" button directs the browser where to navigate
             string WebPage = textBox1.Text.Trim();
             webBrowser1.Navigate(WebPage);
         }
