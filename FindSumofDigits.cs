@@ -36,7 +36,7 @@ namespace FindSumofDigits
             {
                 // Add the previous value of sum using the modulus
                 sum += num % 10;
-                // After the previous calculation, decrement using 10
+                // After the previous calculation, decrement by dividing 10
                 num /= 10;
             }
             Console.WriteLine(sum);
