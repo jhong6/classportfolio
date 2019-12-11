@@ -1,3 +1,11 @@
+// Source: https://www.geeksforgeeks.org/extension-method-in-c-sharp/
+// Extension Method in C#
+// Author: ankita_saini
+// Student: Joseph Hong
+// Synopsis: Extension method allows adding new methods in the
+//           exisiting class without modifying the source code
+//           of the original type.
+
 using System;
 namespace ExtensionMethod
 {
@@ -27,4 +35,4 @@ namespace ExtensionMethod
         }
     }
 }
-//Source: https://www.geeksforgeeks.org/extension-method-in-c-sharp/
+
